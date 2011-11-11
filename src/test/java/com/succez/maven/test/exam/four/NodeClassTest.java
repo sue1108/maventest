@@ -7,7 +7,7 @@ import com.succez.maven.test.pojo.TNode;
 
 public class NodeClassTest {
 
-	@Test
+	@Test 
 	public void testSetTreeValue() {
 //		fail("Not yet implemented");
 	}
